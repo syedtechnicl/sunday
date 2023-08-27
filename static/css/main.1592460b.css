@@ -1,0 +1,2 @@
+.animated-text{-webkit-animation:fadeIn 2s ease-in-out infinite;animation:fadeIn 2s ease-in-out infinite;color:red}@-webkit-keyframes fadeIn{0%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes fadeIn{0%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}
+/*# sourceMappingURL=main.1592460b.css.map*/
